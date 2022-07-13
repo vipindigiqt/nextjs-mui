@@ -1,15 +1,5 @@
-# Next.js example
+# MUI + Nextjs
 
-## How to use
-
-Download the example [or clone the repo](https://github.com/mui/material-ui):
-
-<!-- #default-branch-switch -->
-
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
-cd nextjs
-```
 
 Install it and run:
 
@@ -18,13 +8,6 @@ npm install
 npm run dev
 ```
 
-or:
-
-<!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/nextjs)
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/nextjs)
 
 ## The idea behind the example
 
@@ -38,9 +21,3 @@ Next.js has [a custom Link component](https://nextjs.org/docs/api-reference/next
 The example folder provides adapters for usage with MUI.
 More information [in the documentation](https://mui.com/material-ui/guides/routing/#next-js).
 
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
